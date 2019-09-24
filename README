@@ -1,7 +1,15 @@
-1)Add geocode fields (lang and Lat) in the collections.
+ETL SSIS, fivetran
+
+Data security
+
+complexsqltuning
+
+
+Add geocode fields (lang and Lat) in the collections.
 get (lang and Lat)   it by address in profile by async process
 update back to he collections
 do searches: by interest within 5 miles
 
-2)MongoDB setup and  management
+MongoDB setup and  management
 Add shard for writing and cluster fscalability or reading scalability , do mongoDB management
+
